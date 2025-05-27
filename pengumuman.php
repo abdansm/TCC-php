@@ -242,7 +242,7 @@ body {
                 <nav class="top-bar-wrap">
                     <ul class="top-bar">
                         <li class="nav-item">
-                            <a href="home.php" class="nav-link"><span class="inner-link">Home</span></a>
+                            <a href="index.php" class="nav-link"><span class="inner-link">Home</span></a>
                         </li>
                         <li class="nav-item">
                             <a href="#" class="nav-link active"><span class="inner-link">Pengumuman</span></a>
